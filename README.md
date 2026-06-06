@@ -1,11 +1,5 @@
-# 📚 FON – Veštačka Inteligencija – Cheatsheets
+# 📚 Veštačka Inteligencija – Cheatsheets
 
-Cheatsheetovi za pripremu ispita/kolokvijuma iz predmeta **Veštačka inteligencija** na FON-u.  
-Bazirani na materijalima sa dvočasova 3–10 i primerima ispitnih zadataka.
-
-> ⚠️ Dvočas 8 (Neuronske mreže II) nije uključen jer je isključen po zahtevu.
-
----
 
 ## 📁 Fajlovi
 
