@@ -17,7 +17,7 @@ df.describe()      # deskriptivna statistika
 df.isna().sum()    # broj NA po koloni
 df.isna().mean() * 100  # procenat NA po koloni (za odluku o izbacivanju, granicu uzeti >20%)
 ```
-
+df_subset=df[~df['rm'].astype(str).str.contains(r"[-/ ]", regex=True)]
 ---
 
 ## 2. Kreiranje izlazne promenljive (klasifikacija)
